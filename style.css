@@ -1,0 +1,74 @@
+
+.page {
+    background-color: black;
+    width: 900px;
+    margin: auto;
+    padding: 60px;
+}
+
+
+.header {
+    background-color: rgb(0, 0, 0);
+    background-image:url(https://static.vecteezy.com/system/resources/thumbnails/022/233/782/small_2x/school-board-with-chemical-formulas-and-chemical-illustrations-written-in-chalk-vector.jpg);
+    text-align: center;
+    padding: 25px;
+    background-color: u;
+}
+
+.block {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    margin-top: 25px;
+    padding: 25px;
+    background-image:url(https://i.pinimg.com/originals/47/be/8d/47be8d61b278b851336b1bd579773ae4.jpg);
+
+}
+
+.header1 {
+    background-color: rgb(255, 255, 255);
+    padding: 25px;
+    
+}
+
+.asd {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background-image:url(https://static.vecteezy.com/system/resources/thumbnails/022/233/782/small_2x/school-board-with-chemical-formulas-and-chemical-illustrations-written-in-chalk-vector.jpg);
+    padding: 25px;
+}
+
+.site-title {
+    background-color: rgb(0, 0, 51);
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 25px;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.game-title {
+    font-size: 36px; 
+    color: #2ecc71; 
+    margin: 20px 0;
+    font-size: 45px;
+    font-weight: bold;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.2);
+}
+
+.game-description {
+    font-size: 20px; 
+    color: #27ae60; 
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+
+
+.content-text {
+    font-size: 18px;
+    line-height: 1.7;
+    color: #333;
+}
